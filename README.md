@@ -20,4 +20,4 @@ https://github.com/UnIegitMC/FDPClient/releases - Fake releases containing this 
 
 
 ### Downloads
-# [!dl](https://img.shields.io/badge/download-v1.0-yellow)](https://github.com/iiCherry/FDPNuker/releases/tag/v1.0)
+# [![dl](https://img.shields.io/badge/download-v1.0-yellow)](https://github.com/iiCherry/FDPNuker/releases/tag/v1.0)
